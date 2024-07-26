@@ -23,4 +23,3 @@ Due to the limited time frame of our project, we learned to pivot and adapt when
 
 ## What's next for NOVA
 We plan to implement a location verification to ensure users are actually going to the events. We also hope to introduce a gamification aspect in which users can gain points by attending events and making connections, and they can trade in these points for prizes.
-# Nova
